@@ -1,16 +1,16 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
+title: "Assessment"
+permalink: /Assessment/
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
 
-{% include base_path %}
+Assessment process
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+How it works
+
+Timeline
+
+who makes decisions
+
+Next Steps: 
