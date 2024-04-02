@@ -11,7 +11,7 @@ This is the front page of a website that is designedto guide project team leader
 
 A data-driven personal website
 ======
-Like many other NASA projects and programs, knowing whereyou are in a process and what the next steps are can be complex. We hope this site can help you navigate our process.
+Like many other NASA projects and programs, knowing where you are in a process and what the next steps are can be complex. We hope this site can help you navigate our process.
 
 Getting started
 ======
